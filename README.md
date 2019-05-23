@@ -6,4 +6,6 @@ It will be used for learning/teaching purposes about GitHub and on How-to work w
 
 Screencast recorded on how to make a/some changes to a file!
 
+This is an addition made by Ponch!
+
 To be continued...
